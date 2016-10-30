@@ -4,6 +4,8 @@ Cesar Neri
 ceneri@ucsc.edu
 October 30, 2016
 reverse.php
+
+Outputs the reverse of the specified string
 -->
 
 <?php
